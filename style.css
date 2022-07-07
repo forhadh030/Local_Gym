@@ -1,0 +1,15 @@
+.main {
+    background-image: url(/images/swim.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#location {
+   background-position: center ;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
